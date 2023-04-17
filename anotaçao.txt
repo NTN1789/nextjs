@@ -1,0 +1,23 @@
+no next você pode criar sua propria api dentro dele
+
+a pasta pages se você criar algo dentro dela , ela vai te dar uma url em que você pode acessar ela
+
+o next foca muito em não configurar  as coisas
+
+
+o children ajudar a pegar conteudo dentro de um componente ;
+
+
+
+prestar atenção nas props
+
+
+
+
+para ter uma navegação dinamica tem que colocar entre colchetes é colocar o nome do parametro , é usando a query vc consegue acessar
+
+
+
+
+
+na api o 200 está ok , o 204  significar sem conteudo é o 404  não tem nada
