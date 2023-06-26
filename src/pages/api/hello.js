@@ -5,7 +5,7 @@ export default function handler(req, res) {
      name: 'Natan silva',
     metodo: req.method   ,
     nome:req.query.nome ,
-    idade:req.query.idade
+    idade:+req.query.idade
     })
 
 }

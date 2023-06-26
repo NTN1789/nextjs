@@ -16,8 +16,8 @@ export  default function inicio (){
             }}>
         
                <Navegador texto="Estiloso"   destino="/estiloso" />
-               <Navegador texto="exemplo"  destino="/exemplo" />
-               <Navegador  texto="Jsx"  destino="/jsx"  />
+               <Navegador texto="exemplo"  destino="/exemplo" cor="purple" />
+               <Navegador  texto="Jsx"  destino="/jsx" cor="crimson"  />
                <Navegador  texto="Navegação #01"  destino="/navegacao"  cor="green"/>
                <Navegador  texto="Navegação #02"  destino="/cliente/sp-2/321"  cor="tomato"/>    
                <Navegador  texto="Componente com estado"  destino="/estado"  cor="blue"/>    

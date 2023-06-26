@@ -1,7 +1,7 @@
 import Layout from "@/components/Layout";
 
 
-export function getStaticProps(){
+export async function getStaticProps(){
 
         return {
             props: {
